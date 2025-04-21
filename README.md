@@ -67,7 +67,7 @@ You will get:
 
 ```
 .
-├── Ch8.ipynb            # Main notebook with full logic
+├── DemoCrewGemeni.ipynb            # Main notebook with full logic
 ├── article_output.md    # Article saved as Markdown
 ├── article_output.pdf   # Article saved as PDF
 └── README.md            # Project description
